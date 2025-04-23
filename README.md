@@ -1,12 +1,32 @@
-# React + Vite
+# 💰 FinTrack 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FinTrack is your personal finance assistant to help user manage daily expenses, track budgets, and understand spending habits with a simple and intuitive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔑 Key Features
 
-## Expanding the ESLint configuration
+- **Quick Expense Logging** – Record purchases easily.
+- **Visual Reports** – View charts and graphs of your spending.
+- **Budget Control** – Set spending limits and get alerts.
+- **Spending Insights** – Analyze habits and forecast expenses.
+- **Offline Access** – Data is stored locally for uninterrupted use.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Component Overview
+
+- **Dashboard** – Monthly spending overview
+- **Expense Entry Form** – Custom and quick entry options
+- **Reports** – Visual charts, PDF and CSV export
+- **Transaction Manager** – Add, edit, delete transactions
+- **Budget Tracker** – Set limits and receive alerts
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React + Vite  
+- **Styling**: Tailwind CSS  
+- **Charts**: HTML5 Canvas
+
