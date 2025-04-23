@@ -1,6 +1,6 @@
 ## FinTrack - Expense Tracker 
 
-FinTrack is your personal finance assistant to help user manage daily expenses, track budgets, and understand spending habits with a simple and intuitive interface.
+FinTrack is personal finance assistant to help user manage daily expenses, track budgets, and understand spending habits with a simple and intuitive interface.
 
 #### 🔑 Key Features
 
